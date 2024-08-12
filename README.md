@@ -22,8 +22,7 @@ Bot Telegram ini dirancang untuk mengelola VPS menggunakan SSH dan memberikan pe
 1. **Clone repositori ini:**
 
     ```bash
-    git clone https://github.com/username/repository.git
-    cd repository
+    git clone https://github.com/AutoFTbot/BotAutoinstal.git
     ```
 
 2. **Instal dependensi:**
